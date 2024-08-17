@@ -1,0 +1,17 @@
+.nav1{
+  background-color: rgb(175, 9, 20);
+  color: white;
+
+  
+}
+.menu1{
+  justify-content: end;
+}
+
+nav ul li a{
+  color: white;
+}
+nav ul li{
+  margin-right: 10px;
+  
+}
